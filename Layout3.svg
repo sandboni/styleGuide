@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1764" viewBox="0 0 1440 1764">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #b1e7ff;
+      }
+
+      .cls-4 {
+        fill: #ff8989;
+      }
+    </style>
+  </defs>
+  <g id="Group_89" data-name="Group 89" transform="translate(-240 -9928)">
+    <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-1" width="1440" height="882" transform="translate(240 9928)"/>
+    <rect id="Rectangle_76" data-name="Rectangle 76" class="cls-2" width="175" height="30" transform="translate(278 9958)"/>
+    <rect id="Rectangle_77" data-name="Rectangle 77" class="cls-2" width="75" height="30" transform="translate(1567 9958)"/>
+    <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-2" width="75" height="30" transform="translate(1452 9958)"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-3" width="375" height="450" transform="translate(773 10144)"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-4" width="40" height="225" transform="translate(643 10144)"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-4" width="40" height="300" transform="translate(698 10144)"/>
+    <rect id="Rectangle_82" data-name="Rectangle 82" class="cls-1" width="1440" height="882" transform="translate(240 10810)"/>
+    <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-2" width="175" height="30" transform="translate(278 10840)"/>
+    <rect id="Rectangle_84" data-name="Rectangle 84" class="cls-2" width="75" height="30" transform="translate(1567 10840)"/>
+    <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-2" width="75" height="30" transform="translate(1452 10840)"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-3" width="1315" height="550" transform="translate(365 10995)"/>
+    <rect id="Rectangle_87" data-name="Rectangle 87" class="cls-4" width="735" height="151" transform="translate(755 11195)"/>
+  </g>
+</svg>
